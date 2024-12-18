@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hg+xEUx1Ui8=",
+  "dgSpecHash": "1a9Tl13NG0g=",
   "success": true,
-  "projectFilePath": "/Users/caitlynschmidt/Documents/School/Notes/NotesApp/NotesApp.csproj",
+  "projectFilePath": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/NotesApp.csproj",
   "expectedPackageFiles": [
     "/Users/caitlynschmidt/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/caitlynschmidt/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

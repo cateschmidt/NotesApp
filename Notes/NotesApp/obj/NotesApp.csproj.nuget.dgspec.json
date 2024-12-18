@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/caitlynschmidt/Documents/School/Notes/NotesApp/NotesApp.csproj": {}
+    "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/NotesApp.csproj": {}
   },
   "projects": {
-    "/Users/caitlynschmidt/Documents/School/Notes/NotesApp/NotesApp.csproj": {
+    "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/NotesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/caitlynschmidt/Documents/School/Notes/NotesApp/NotesApp.csproj",
+        "projectUniqueName": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/NotesApp.csproj",
         "projectName": "NotesApp",
-        "projectPath": "/Users/caitlynschmidt/Documents/School/Notes/NotesApp/NotesApp.csproj",
+        "projectPath": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/NotesApp.csproj",
         "packagesPath": "/Users/caitlynschmidt/.nuget/packages/",
-        "outputPath": "/Users/caitlynschmidt/Documents/School/Notes/NotesApp/obj/",
+        "outputPath": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/caitlynschmidt/.nuget/NuGet/NuGet.Config"
