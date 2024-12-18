@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A3fh7JZwCPc3UP07hjLlAoLT7zodlR/dIcY39IHaiAk=",
+  "Hash": "nlxJDBu3cBSvSh9WXH/4wo6ItgR+9yCoDIf27odBoyg=",
   "Source": "NotesApp",
   "BasePath": "_content/NotesApp",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "hy465wje3u",
+      "Integrity": "Z0zmnTbxAda0vV9mPL0WFo0wcC+U2lES2JT+Y1NJZuw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -1321,51 +1321,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/wwwroot/css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 21:29:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/wwwroot/css/site.css",
       "Selectors": [],
@@ -1376,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2858"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"Z0zmnTbxAda0vV9mPL0WFo0wcC+U2lES2JT+Y1NJZuw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 21:29:05 GMT"
+          "Value": "Wed, 18 Dec 2024 01:51:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1353,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-Z0zmnTbxAda0vV9mPL0WFo0wcC+U2lES2JT+Y1NJZuw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.hy465wje3u.css",
+      "AssetFile": "/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z0zmnTbxAda0vV9mPL0WFo0wcC+U2lES2JT+Y1NJZuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:51:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hy465wje3u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z0zmnTbxAda0vV9mPL0WFo0wcC+U2lES2JT+Y1NJZuw="
         }
       ]
     },
@@ -6263,7 +6263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 22:48:18 GMT"
+          "Value": "Wed, 18 Dec 2024 02:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6308,7 +6308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 22:48:18 GMT"
+          "Value": "Wed, 18 Dec 2024 02:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6353,7 +6353,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 22:48:18 GMT"
+          "Value": "Wed, 18 Dec 2024 02:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6390,7 +6390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 22:48:18 GMT"
+          "Value": "Wed, 18 Dec 2024 02:03:39 GMT"
         },
         {
           "Name": "Cache-Control",

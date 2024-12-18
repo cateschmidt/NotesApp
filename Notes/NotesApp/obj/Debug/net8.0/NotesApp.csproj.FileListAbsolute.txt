@@ -161,8 +161,8 @@
 /Users/caitlynschmidt/Documents/School/Notes/NotesApp/obj/Debug/net8.0/ref/NotesApp.dll
 /Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/appsettings.Development.json
 /Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/appsettings.json
-/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/NotesApp.staticwebassets.endpoints.json
 /Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/NotesApp.staticwebassets.runtime.json
+/Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/NotesApp.staticwebassets.endpoints.json
 /Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/NotesApp
 /Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/NotesApp.deps.json
 /Users/caitlynschmidt/Documents/School/NotesApp/Notes/NotesApp/bin/Debug/net8.0/NotesApp.runtimeconfig.json
